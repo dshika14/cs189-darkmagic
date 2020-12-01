@@ -25,10 +25,9 @@
 11. **Experience reading existing code and creating bug fixes.** Based on our findings from Early Project T, sometimes interns worked with existing code that contained bugs or a partial implementation. We give students an implementation of kernelized K-means and ask them to fix the bugs based on their understanding of the research paper (learning objective 10). This skill will likely be helpful for students in an internship-setting.
 
 ### How to Navigate the Repository
-The workflow of a typical student is as follows: 
+Instructions for a Prospective Student: 
 1. Look at the [slides] for an overview of K-Means
-2. In the [students](students) directory, start [Part 1](students/ProjectTFinal_kmeans_part1.ipynb) of the project, where they will create a working K-Means implemention end-to-end in the context of a real industry situation. They will be working with a [dataset of Polymers](students/PolymersData_NoLabels.csv) which will be contained within the same directory. If they need any clarifications on the theory or more details, they can reference the [notes] as needed. 
-3. After completing Part 1, they will move on to [Part 2](students/ProjectTFinal_kmeans_part2.ipynb) where they will explore the bounds and limitations of K-Means and how to prevent certain issues from arising. 
-4. Once they have finished the coding portion, they will take the [quiz] to check their overall understanding of K-Means.
-5. Students can check their solutions to the project and the quiz using the solution files in the [instructors](instructors) directory.
-
+2. In the [students](students) directory, start [Part 1](students/ProjectTFinal_kmeans_part1.ipynb) of the project to create a working K-Means implemention end-to-end in the context of a real industry situation. You will be working with a [dataset of Polymers](students/PolymersData_NoLabels.csv) which will be contained within the same directory. If you need any clarifications on the theory or more details, you can reference the [notes] as needed. 
+3. After completing Part 1, move on to [Part 2](students/ProjectTFinal_kmeans_part2.ipynb) where you will explore the bounds and limitations of K-Means and how to prevent certain issues from arising. 
+4. Once you have finished the coding portion, take the [quiz] to check your overall understanding of K-Means.
+5. You can check their solutions to the project and the quiz using the solution files in the [instructors](instructors) directory.
