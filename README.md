@@ -31,4 +31,4 @@ Instructions for a Prospective Student:
 2. In the [students](students) directory, start [Part 1](students/ProjectTFinal_kmeans_part1.ipynb) of the project to create a working K-Means implemention end-to-end in the context of a real industry situation. You will be working with a [dataset of Polymers](students/PolymersData_NoLabels.csv) which will be contained within the same directory. If you need any clarifications on the theory or more details, you can reference the [notes](K_Means_DocumentationAndNotes.pdf) as needed. 
 3. After completing Part 1, move on to [Part 2](students/ProjectTFinal_kmeans_part2.ipynb) where you will explore the limitations of K-Means, learn how to prevent certain issues from arising, and practice troubleshooting and debugging.
 4. Once you have finished the coding portion, take the [quiz](students/Quiz.pdf) to check your overall understanding of K-Means.
-5. You can check their solutions to the project and the quiz using the solution files in the [instructors](instructors) directory.
+5. You can check your solutions to the project and the quiz using the solution files in the [instructors](instructors) directory.
