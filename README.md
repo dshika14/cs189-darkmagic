@@ -27,8 +27,8 @@
 ### How to Navigate the Repository
 The workflow of a typical student is as follows: 
 1. Look at the [slides] for an overview of K-Means
-2. Open the [folder] and start on [project_part_1] where they will create a working K-Means implemention end-to-end in the context of a real industry situation. If they need any clarifications on the theory or more details, they can reference the [notes] as needed. 
-3. After completing [project part 1], they will move on to [project part 2] where they will explore the bounds and limitations of K-Means and how they can prevent certain issues from arising. 
+2. In the [students](students) directory, start [Part 1](students/ProjectTFinal_kmeans_part1.ipynb) of the project, where they will create a working K-Means implemention end-to-end in the context of a real industry situation. They will be working with a [dataset of Polymers](students/PolymersData_NoLabels.csv) which will be contained within the same directory. If they need any clarifications on the theory or more details, they can reference the [notes] as needed. 
+3. After completing Part 1, they will move on to [Part 2](students/ProjectTFinal_kmeans_part2.ipynb) where they will explore the bounds and limitations of K-Means and how to prevent certain issues from arising. 
 4. Once they have finished the coding portion, they will take the [quiz] to check their overall understanding of K-Means.
-5. Students can check their solutions using the notebooks found in [folder]
+5. Students can check their solutions to the project and the quiz using the solution files in the [instructors](instructors) directory.
 
