@@ -26,6 +26,7 @@
 
 ### How to Navigate the Repository
 Repository Structure 
+```
 ├── README.md
 ├── LearningObjectivesAndNarratives.md
 ├── K_Means_Slides.pdf
@@ -42,7 +43,7 @@ Repository Structure
 │   └── ProjectTFinal_kmeans_part1.ipynb
 │   └── ProjectTFinal_kmeans_part2.ipynb
 │   └── Quiz.pdf
-
+```
 
 Instructions for a Prospective Student: 
 1. Look at the [slides](K_Means_Slides.pdf) and read the [notes](K_Means_DocumentationAndNotes.pdf) for an introduction to and overview of K-Means. The slides will give a general overview of the topic with visuals, whereas the notes will give more details and clarifications on the theory behind K-Means. 
