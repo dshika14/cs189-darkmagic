@@ -25,6 +25,25 @@
 11. **Experience reading existing code and creating bug fixes.** Based on our findings from Early Project T, sometimes interns worked with existing code that contained bugs or a partial implementation. We give students an implementation of kernelized K-means and ask them to fix the bugs based on their understanding of the research paper (learning objective 10). This skill will likely be helpful for students in an internship-setting.
 
 ### How to Navigate the Repository
+Repository Structure 
+├── README.md
+├── LearningObjectivesAndNarratives.md
+├── K_Means_Slides.pdf
+├── K_Means_DocumentationAndNotes.pdf
+├── instructors
+│   └── PolymersData.csv
+│   └── PolymersData_NoLabels.csv
+│   └── ProjectTFinal_kmeans_part1_solutions.ipynb
+│   └── ProjectTFinal_kmeans_part2_solutions.ipynb
+│   └── Quiz_Answers.pdf
+├── students
+│   └── PolymersData.csv
+│   └── PolymersData_NoLabels.csv
+│   └── ProjectTFinal_kmeans_part1.ipynb
+│   └── ProjectTFinal_kmeans_part2.ipynb
+│   └── Quiz.pdf
+
+
 Instructions for a Prospective Student: 
 1. Look at the [slides](K_Means_Slides.pdf) and read the [notes](K_Means_DocumentationAndNotes.pdf) for an introduction to and overview of K-Means. The slides will give a general overview of the topic with visuals, whereas the notes will give more details and clarifications on the theory behind K-Means. 
 2. Review the [learning objectives](LearningObjectivesAndNarrative.md) to understand the scope of the project
